@@ -42,7 +42,7 @@ def sontop_pc(x=20):
     return taxminlar
 
 
-def play(x=20):
+def play(x=21):
     yana = True
     while yana:
         taxminlar_user = sontop(x)
